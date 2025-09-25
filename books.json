@@ -1,0 +1,12 @@
+[
+  { "id": "1", "title": "Node.js Asoslari", "author": "Ali Karimov", "year": 2021 },
+  { "id": "2", "title": "Express bilan Ishlash", "author": "Bektur R.", "year": 2022 },
+  { "id": "3", "title": "JavaScript Toliq Qollanma", "author": "Sardor M.", "year": 2020 },
+  { "id": "4", "title": "Backend Dasturlash", "author": "Gulbahor N.", "year": 2019 },
+  { "id": "5", "title": "Asinxron JS", "author": "Nodir Q.", "year": 2023 },
+  { "id": "6", "title": "REST API Dizayni", "author": "Zarina O.", "year": 2020 },
+  { "id": "7", "title": "Fayl Bilan Ishlash", "author": "Umid A.", "year": 2018 },
+  { "id": "b8", "title": "Unit Testing", "author": "Javlon S.", "year": 2024 },
+  { "id": "9", "title": "HTTP Protokoli", "author": "Saida R.", "year": 2017 },
+  { "id": "10", "title": "Yaxshi Kod Yozish", "author": "Diyor Y.", "year": 2016 }
+]
